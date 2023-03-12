@@ -1,0 +1,15 @@
+.cat-table{ 
+    /* background-color: aquamarine; */
+    height: 100%;
+    width: 13rem
+  }
+  
+  .cat-table button{
+    margin-left: 10px;
+    padding: 15px 40px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    width: 13rem;
+  }

@@ -1,0 +1,44 @@
+.card {
+    /* border-radius: 5px; */
+    width: 300px;
+    height: 380px;
+    margin: 25px;
+    border: 1px solid black;
+ }
+
+
+  .card .cat-img{
+    height: 200px;
+  }
+
+  .card .cat-img img{
+    width: 298px;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .card .cat-name {
+    width: 300px;
+    height: 35px;
+    padding: 10px 0px 0px 15px;
+  }
+  
+  .card .clickedTimes{
+    width: 300px;
+    height: 30px;
+    padding-left: 15px;
+  }
+
+  .cat-nickname p{
+    padding: 15px 0px 0px 15px;
+  }
+
+  .cat-age{
+    padding: 15px 0px 0px 15px;
+  }
+
+  .card .card-link{
+    color: blue;
+    font-weight: 600;
+    padding: 15px 0px 0px 15px;
+  }

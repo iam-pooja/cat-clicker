@@ -1,0 +1,85 @@
+.edit-btn {
+    background-color: cornflowerblue;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.form-btn{
+    background-color: cornflowerblue;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    margin-right: 11rem;
+    margin-bottom: 5px;
+}
+
+.form-container {
+    margin: 15px 0px 10px 10px;
+    width: 340px;
+    height: 380px;
+    align-items: center;
+    border: 1px solid black;    
+}
+
+.form-card {
+    width: 380px;
+    height: 420px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: space-between; */
+    padding: 22px;
+}
+
+.label-input{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 30vh;
+}
+
+label{
+    padding: 5px;
+}
+
+input {
+    border: 1px solid black; 
+    height: 2.5em;
+    width: 80%;
+    padding-left: 5px;
+    font-size: 15px;
+}
+
+input::placeholder {
+    color: black;
+    opacity: 0.7;
+}
+
+
+.save-btn{
+    margin-right: 2px;
+    background-color: forestgreen;
+    border: none;
+    color: white;
+    padding: 8px 28px;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.undo-btn{
+    margin-bottom: 45px;
+    margin-right: 9.5rem;
+    background-color:crimson;
+    border: none;
+    color: white;
+    padding: 8px 28px;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+}
